@@ -19,6 +19,6 @@ To get started with HighRes Vision, follow these steps:
 
 ***Clone the Repository:***
 
-     > git clone https://github.com/yourusername/highres-vision.git
+     > git clone https://github.com/mounibnasr45/SrGan.git
      
-     > cd highres-vision
+     > cd SrGan
