@@ -20,9 +20,8 @@ To get started with HighRes Vision, follow these steps:
 
 ***Example of Result***
 ![Image](https://github.com/user-attachments/assets/47b41c6c-0833-41e9-8f69-880e553ecbcc)
-<!-- Uploading "sample_1 (1).png"... -->
-<!-- Uploading "sample_0 (1).png"... -->](https://github.com/mounibnasr45/SrGan/issues/1)
-
+![Image](https://github.com/user-attachments/assets/cef0f74e-724e-40d2-913c-cada2e9dafd9)
+![Image](https://github.com/user-attachments/assets/ecd5e60b-65b0-42a6-9015-3de0d7e600fe)
 ***Clone the Repository:***
 
      > git clone https://github.com/mounibnasr45/SrGan.git
