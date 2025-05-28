@@ -18,7 +18,9 @@ HighRes Vision is an Enhanced Super-Resolution Generative Adversarial Network (E
 To get started with HighRes Vision, follow these steps:
 
 ***Example of Result***
-![Uploading image.png…]()
+<!-- Uploading "sample_2 (1).png"... -->
+<!-- Uploading "sample_1 (1).png"... -->
+<!-- Uploading "sample_0 (1).png"... -->
 
 ***Clone the Repository:***
 
