@@ -2,6 +2,7 @@
 
 ***Overview:***
 
+
 HighRes Vision is an Enhanced Super-Resolution Generative Adversarial Network (ESRGAN) designed to generate high-resolution images from low-resolution inputs. This project leverages advanced deep learning techniques to achieve state-of-the-art performance in image super-resolution tasks.
 
 ***Features:***
