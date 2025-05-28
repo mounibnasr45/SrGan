@@ -17,6 +17,9 @@ HighRes Vision is an Enhanced Super-Resolution Generative Adversarial Network (E
 ***Installation***
 To get started with HighRes Vision, follow these steps:
 
+***Example of Result***
+![Uploading image.png…]()
+
 ***Clone the Repository:***
 
      > git clone https://github.com/mounibnasr45/SrGan.git
